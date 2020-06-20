@@ -15,7 +15,7 @@ Details like name of the customer,principal amount,rate and duration is been col
 calculated by checking if the latter is a new one or a frequent existing customer.
 Each and every time the customer enter the details in the form, it is stored on the database.
 Further in this project I have created a customer simple interest table in MySQL platform, where all the details of
-the customer is been stored on thid database.
+the customer is been stored on this database.
 
 What does it do?
 1.It calculates simple interest
